@@ -1,0 +1,19 @@
+.container {
+    position: relative;
+    margin: 10px;
+}
+img {
+    left: 0;
+    width: 200px;
+}
+.text {
+    position: absolute;
+    top: 0;
+    left: 220px;
+}
+h1 {
+    line-height: 0.8;
+}
+.p1 {
+    
+}
